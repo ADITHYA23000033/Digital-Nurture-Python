@@ -183,8 +183,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 15. Nested If
 **Question:** Validate login credentials using nested if statements with `user = "admin"` and `pwd = "pass123"`.
 
-<img src="images/q15.png" width="500">
-
+<img width="1696" height="643" alt="image" src="https://github.com/user-attachments/assets/243cc5d6-db36-4f32-b32c-d74f709f3945" />
 
 ---
 
@@ -366,8 +365,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 ## 38. Method Chaining
 **Question:** Create an employee object, apply salary updates using method chaining, and display the final salary.
-
-
+<img width="1721" height="890" alt="image" src="https://github.com/user-attachments/assets/bc19c04e-3032-4a85-b00e-6b8fcf3e4194" />
 
 
 ---
