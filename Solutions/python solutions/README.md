@@ -79,80 +79,62 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 ## 1. Simple Hello World
 **Question:** Create `first.py` with `print("Hello World!")`, run the program, and display the terminal output.
+<img width="1600" height="377" alt="image" src="https://github.com/user-attachments/assets/17279a61-df4b-48fc-9792-7302e78e422d" />
 
-<img src="images/q1.png" width="500">
 
 
 ---
 
 ## 2. Jupyter Notebook
 **Question:** Create a Jupyter Notebook, add code cells and markdown cells, and execute them.
-
-<img src="images/q2_1.png" width="500">
-
-<img src="images/q2_2.png" width="500">
-
-<img src="images/q2_3.png" width="500">
+<img width="677" height="904" alt="image" src="https://github.com/user-attachments/assets/5cdbc467-cad0-40b7-be7b-8fa561a8f8fb" />
 
 
 ---
 
 ## 3. VS Code Setup
 **Question:** Configure Python in VS Code, create a Python file, and verify IntelliSense and execution.
-
-<img src="images/q3_1.png" width="500">
-
-<img src="images/q3_2.png" width="500">
-
-<img src="images/q3_3.png" width="500">
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/89467d51-3c38-4282-aae1-a325b3dc6e84" />
 
 
 ---
 
 ## 4. Float Precision
 **Question:** Calculate net salary after tax using `salary = 75000.5` and `tax_rate = 0.18`. Display the result with 2 decimal places.
-
-<img src="images/q4.png" width="500">
-
+<img width="1600" height="572" alt="image" src="https://github.com/user-attachments/assets/edd85b39-e8f8-4c25-a9b1-a817dd75cded" />
 
 ---
 
 ## 5. Multiple Assignment
 **Question:** Use multiple assignment to unpack `(x, y)` coordinates and display them.
-
-<img src="images/q5.png" width="500">
-
+<img width="1600" height="383" alt="image" src="https://github.com/user-attachments/assets/1991cb2b-8d55-4b4e-84c5-4d8ef55cebeb" />
 
 ---
 
 ## 6. Modulo Operator
 **Question:** Determine whether `number = 17` is Even or Odd using the modulo operator.
-
-<img src="images/q6.png" width="500">
+<img width="1600" height="353" alt="image" src="https://github.com/user-attachments/assets/fd6e741c-b4be-4aa8-b7fc-2c44aaebc584" />
 
 
 ---
 
 ## 7. Floor Division
 **Question:** Split `total_bill = 1250` among `people = 4` using floor division and display each person's share.
-
-<img src="images/q7.png" width="500">
-
+<img width="1600" height="431" alt="image" src="https://github.com/user-attachments/assets/d2bd36c8-6547-41b8-a210-d4035f4f9d72" />
 
 ---
 
 ## 8. Min/Max Functions
 **Question:** Find the highest and lowest salary from `[50000, 75000, 62000, 95000]`.
-
-<img src="images/q8.png" width="500">
-
+<img width="1600" height="436" alt="image" src="https://github.com/user-attachments/assets/6b008b04-0b48-4b06-b701-48b3eba2f9ad" />
 
 ---
 
 ## 9. Basic Input
 **Question:** Accept the user's name and display a greeting message.
 
-<img src="images/q9.png" width="500">
+<img width="1433" height="477" alt="image" src="https://github.com/user-attachments/assets/4be1405f-0233-4a65-b50a-3319fb50cab2" />
+
 
 
 ---
@@ -192,7 +174,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 14. If-Elif-Else
 **Question:** Assign grade A, B, or C using `score = 88`.
 
-<img src="images/q14.png" width="500">
+<img width="1600" height="347" alt="image" src="https://github.com/user-attachments/assets/53f7b272-4be8-4155-8e65-3caba3dace3b" />
+
 
 
 ---
@@ -384,7 +367,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 38. Method Chaining
 **Question:** Create an employee object, apply salary updates using method chaining, and display the final salary.
 
-<img src="images/q38.png" width="500">
+
 
 
 ---
@@ -496,7 +479,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ## 52. Gradebook System
 **Question:** Manage student grades, calculate GPA, and compute class averages.
 
-<img src="images/q52.png" width="500">
+<img width="1678" height="624" alt="image" src="https://github.com/user-attachments/assets/c3c78bcb-63af-4e75-b8ee-66f524ba29d4" />
+
 
 
 ---
